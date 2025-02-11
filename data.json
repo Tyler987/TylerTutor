@@ -1,0 +1,142 @@
+{
+    "header": {
+      "title": "Welcome to Tyler Korth Tutoring",
+      "subtitle": "Personalized In-Person Math Support & Coding Lessons"
+    },
+    "mathTutoring": {
+      "title": "Math Tutoring",
+      "sections": [
+        {
+          "title": "Subjects",
+          "list": [
+            "Elementary Math",
+            "Pre-Algebra & Algebra",
+            "Geometry & Trigonometry",
+            "Statistics",
+            "Pre-Calculus & Calculus"
+          ]
+        },
+        {
+          "title": "Customized Learning",
+          "description": "Every student’s math journey is unique. I create a personalized plan based on each student’s goals, learning style, and pace. Together, we will:",
+          "list": [
+            "Reinforce core concepts through hands-on practice",
+            "Build confidence with step-by-step problem-solving",
+            "Develop test-taking strategies"
+          ]
+        },
+        {
+          "title": "What a Tutoring Session Looks Like",
+          "description": "My sessions are always one-on-one and in-person. In each session, we:",
+          "list": [
+            "Identify the specific concepts to focus on (e.g., homework, upcoming tests)",
+            "Review foundational skills needed to understand new material",
+            "Work through example problems and practice together",
+            "Discuss tips, shortcuts, and strategies for mastering the topic"
+          ]
+        }
+      ]
+    },
+    "codingTutoring": {
+      "title": "Coding Tutoring",
+      "teachTitle": "Programming Languages:",
+      "teachList": [
+        "C++",
+        "Java",
+        "Python",
+        "HTML & CSS",
+        "JavaScript"
+      ],
+      "codingFocus": {
+        "title": "Main Focus:",
+        "list": [
+          "Understanding core programming concepts (e.g., variables, data types, conditionals, loops, and functions)",
+          "Writing clean, efficient code",
+          "Debugging and troubleshooting",
+          "Working with libraries and frameworks",
+          "Testing and Validation",
+          "File I/O and Data Processing",
+          "Object-Oriented Programming"
+        ]
+      },
+      "learningCode": {
+        "title": "Requirements",
+        "list": [
+          "Windows, Mac, or Linux Computer",
+          "4GB+ of RAM",
+          "Stable internet connection",
+          "Visual Studio Code",
+          "Programming Language Compilers",
+          "Git",
+          "Environment Setup"
+        ]
+      },
+      "additionalResources": {
+        "title": "Additional Resources",
+        "list": [
+          {
+            "name": "Downloading Visual Studio Code",
+            "url": "https://youtu.be/cu_ykIfBprI?si=h6x-9FIn7NX3TW0Q"
+          }
+        ]
+      },
+      "github": {
+        "label": "My GitHub:",
+        "linkText": "Check out my projects",
+        "linkUrl": "https://github.com/Tyler987"
+      }
+    },
+    "aboutMe": {
+      "title": "About Me",
+      "content": "Hello! I’m Tyler Korth, a student at the University of South Carolina (Computer Science major and Business minor) with a passion for logical thinking, problem-solving, and helping students excel. My tutoring approach is hands-on, encouraging, and customized to each student’s pace. Whether it's math or coding, I believe a strong foundation boosts confidence both in academics and real-world problem-solving. I look forward to working with you or your child!"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": [
+        {
+          "question": "1. Where do the sessions take place?",
+          "answer": "I currently provide in-person tutoring in Camden, Lugoff, and Columbia, SC. We can meet in a public location (e.g. library, coffee shop) or at your residence if that’s preferred."
+        },
+        {
+          "question": "2. How long are tutoring sessions?",
+          "answer": "Typically 60-90 minutes, but flexible to your schedule and needs."
+        },
+        {
+          "question": "3. What if my child only needs help occasionally?",
+          "answer": "That’s perfectly fine! I offer one-time sessions or periodic check-ins as needed."
+        },
+        {
+          "question": "4. What is your availability?",
+          "answer": "I’m generally flexible. Email me or fill out my contact form, and we’ll find a time!"
+        },
+        {
+          "question": "Rates & Payment",
+          "answer": "My rates vary depending on the subject and level. Payment can be made via cash, check, or digital methods. Contact me for a custom quote!"
+        }
+      ]
+    },
+    "getInTouch": {
+      "title": "Get in Touch",
+      "intro": "Ready to start or have more questions? Fill out the form that fits your needs:",
+      "contactList": [
+        {
+          "label": "Math Tutoring:",
+          "linkText": "Math Form",
+          "linkUrl": "https://forms.gle/rouAz1K2sgQwBJHw8"
+        },
+        {
+          "label": "Coding Tutoring:",
+          "linkText": "Coding Form",
+          "linkUrl": "https://forms.gle/mVhD4MvfLChTsJtM6"
+        }
+      ],
+      "email": {
+        "label": "Or simply email me at:",
+        "address": "tylertutoring12@gmail.com"
+      }
+    },
+    "footer": {
+      "text": "&copy; 2025 Tyler Korth"
+    }
+  }
+  
