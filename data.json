@@ -77,6 +77,30 @@
           {
             "name": "Downloading Visual Studio Code",
             "url": "https://youtu.be/cu_ykIfBprI?si=h6x-9FIn7NX3TW0Q"
+          },
+          {
+            "name": "Downloading python for Visual Studio Code",
+            "url": "https://youtu.be/r1nkXw8ffOk?si=z9yVwkV2MFulJaTf"
+          },
+          {
+            "name": "Downloading Java for Visual Studio Code",
+            "url": "https://youtu.be/4v6ua2_S5jI?si=gQvIgWTw_Np0sK96"
+          },          
+          {
+            "name": "Downloading c++ for Visual Studio Code",
+            "url": "https://youtu.be/KnPj8Ow3bM8?si=3Id_hegYyCM0v4Id"
+          },
+          {
+            "name": "Setting up Environment Java",
+            "url": "https://youtu.be/-AbhwXjALok?si=UBRNHpNn-2HC_HDB&t=133"
+          },
+          {
+            "name": "Setting up Environment Python",
+            "url": "https://youtu.be/91SGaK7_eeY?si=P6rc-iKxOBKFDKtS"
+          },
+          {
+            "name": "Setting up Evironment C++",
+            "url": "https://youtube.com/shorts/EofQ1LYuW2c?si=xDau5s6WTpgER8N3"
           }
         ]
       },
@@ -95,7 +119,7 @@
       "items": [
         {
           "question": "1. Where do the sessions take place?",
-          "answer": "I currently provide in-person tutoring in Camden, Lugoff, and Columbia, SC. We can meet in a public location (e.g. library, coffee shop) or at your residence if that’s preferred."
+          "answer": "I currently provide in-person tutoring in Camden, Lugoff, and Columbia, SCWe can meet in a public location (e.g. library, coffee shop) or at your residence if that’s preferred. I also offer tutoring via Zoom"
         },
         {
           "question": "2. How long are tutoring sessions?",
@@ -131,7 +155,7 @@
         }
       ],
       "email": {
-        "label": "Or simply email me at:",
+        "label": "Email:",
         "address": "tylertutoring12@gmail.com"
       }
     },
